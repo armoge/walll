@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>me-mick-dude</title>
 </head>
 <body>
 
